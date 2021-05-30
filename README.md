@@ -1,4 +1,4 @@
-# the-meters-of-Arabic-poems.
+# the-meters-of-Arabic-poems.(Arabic NLP)
 write a certain verse from poem, and get the poetry meter of this verse
 
 Dataset:
